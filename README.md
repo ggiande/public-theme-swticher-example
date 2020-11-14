@@ -1,6 +1,4 @@
-# android-theme-switcher
-An android app that changes custom themes at runtime.
-
+# Note: This is an example of the use of the Codepath Theme Switcher Barenbones template that can be found here: [Github Repo](https://github.com/codepath/android-theme-switcher)
 ## Overview
 
 The goal of this exercise is to get familiar with Android drawables, styles and themes. By the end of this exercise, you should know how to define a theme in your resources in an XML file, how to define attributes of the theme, how to apply those to your layout file, and finally how to dynamically change the theme of an activity. 
